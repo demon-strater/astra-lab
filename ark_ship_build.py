@@ -93,6 +93,18 @@ def enclosing_shell(st, name, theta0, theta1, material='Hull', **kw):
     # Broad swept fairing that wraps around the central spacecraft and tapers into the nose and drive ends.
     add(st, 'sweep_shell', name, (0, 0, 0), (.095,), material, theta0=theta0, theta1=theta1, **kw)
 
+def petal_point(u, base, twist, width):
+    # Reference-matched open petal: rooted at the aft ring, bows away from the spine, then returns to a tapered tip.
+    x = -4.65 + 9.3 * u + .20 * width * math.sin(math.pi * u)
+    radius = 1.10 + 1.58 * math.sin(math.pi * (u ** .88))
+    th = base + twist * (u ** .82) + math.radians(18.0) * width * (0.78 + .22 * math.sin(math.pi * u))
+    y = radius * math.cos(th)
+    z = radius * math.sin(th) + .10 * math.sin(math.pi * u + base)
+    return (x, y, z)
+
+def petal_shell(st, name, base, twist, material='Hull', **kw):
+    add(st, 'petal_shell', name, (0, 0, 0), (.070,), material, base=base, twist=twist, **kw)
+
 # ---------- stage 01: spine and bulkheads ----------
 box(0, 'Main pressure spine', (0, 0, 0), (10.8, .48, .48), 'Frame')
 box(0, 'Spine upper keel', (0, 0, .33), (10.2, .18, .16), 'Carbon')
@@ -140,19 +152,23 @@ for x in [-3.0, -1.0, 1.0, 3.0]:
     cyl(2, 'Spin bearing collar', (x, 0, 0), .98, .12, 'Frame', 'X')
 label(2, 'HABITAT / 04', (0, -.90, .18), .12, 'HullDark')
 
-# ---------- stage 04: the signature surrounding ark fairings ----------
-# Four wide petals almost close around the craft, leaving deliberate service gaps between them.
-enclosing_shell(3, 'Upper starboard swept fairing', math.radians(10), math.radians(80), 'Hull')
-enclosing_shell(3, 'Upper port swept fairing', math.radians(100), math.radians(170), 'Hull')
-enclosing_shell(3, 'Lower port swept fairing', math.radians(190), math.radians(260), 'HullDark')
-enclosing_shell(3, 'Lower starboard swept fairing', math.radians(280), math.radians(350), 'HullDark')
-for x, major in [(-4.65, 1.26), (0.0, 2.18), (4.65, 1.48)]:
-    torus(3, 'Outer fairing capture ring', (x, 0, 0), major, .085, 'Frame', 'X')
-    torus(3, 'Outer fairing seal ring', (x, 0, 0), major*.88, .045, 'HullDark', 'X')
-for z in [-1, 1]:
-    for y in [-1, 1]:
-        for x in [-4.4, -2.2, 0, 2.2, 4.4]:
-            rod(3, 'Fairing tension strut', (x, y*1.0, z*.92), (x, y*1.82, z*1.52), .035, 'Carbon')
+# ---------- stage 04: reference-matched open protective petals ----------
+# The supplied concepts show four separate curved shields, not a closed fuselage.
+PETALS = [
+    ('Upper protective petal', math.radians(92), math.radians(-32), 'Hull'),
+    ('Port protective petal', math.radians(182), math.radians(28), 'Hull'),
+    ('Lower protective petal', math.radians(272), math.radians(-28), 'HullDark'),
+    ('Starboard protective petal', math.radians(2), math.radians(32), 'HullDark'),
+]
+for name, base, twist, material in PETALS:
+    petal_shell(3, name, base, twist, material)
+    for width in [-1, 1]:
+        for u0, u1 in [(0.04, .28), (.28, .52), (.52, .76), (.76, .96)]:
+            rod(3, 'Petal edge rail', petal_point(u0, base, twist, width), petal_point(u1, base, twist, width), .034, 'Frame')
+    for u in [.18, .38, .58, .78]:
+        rod(3, 'Petal transverse rib', petal_point(u, base, twist, -1), petal_point(u, base, twist, 1), .026, 'Carbon')
+torus(3, 'Protective shell root ring', (-4.65, 0, 0), 1.60, .10, 'Frame', 'X')
+torus(3, 'Protective shell root seal', (-4.65, 0, 0), 1.40, .05, 'HullDark', 'X')
 
 # ---------- stage 05: radiators, pods, heat management ----------
 for side in [-1, 1]:
@@ -259,6 +275,23 @@ def construct(job, stage):
         o=bpy.data.objects.new(job['name'], mesh); sc.collection.objects.link(o)
         sol=o.modifiers.new('Aerodynamic fairing thickness','SOLIDIFY'); sol.thickness=d[0]
         bev=o.modifiers.new('Manufactured edge radius','BEVEL'); bev.width=.045; bev.segments=3
+    elif k == 'petal_shell':
+        # Open, independently suspended shield panel matching the four-petal reference silhouette.
+        verts=[]; faces=[]; x_count=21; w_count=9
+        base, twist = job['base'], job['twist']
+        for i in range(x_count):
+            u = i / (x_count - 1)
+            for j in range(w_count):
+                w = -1.0 + 2.0 * j / (w_count - 1)
+                verts.append(petal_point(u, base, twist, w))
+        for i in range(x_count - 1):
+            for j in range(w_count - 1):
+                a = i * w_count + j; b = a + 1; c = a + w_count + 1; d0 = a + w_count
+                faces.append((a, b, c, d0))
+        mesh=bpy.data.meshes.new('Open protective petal mesh'); mesh.from_pydata(verts, [], faces); mesh.update()
+        o=bpy.data.objects.new(job['name'], mesh); sc.collection.objects.link(o)
+        sol=o.modifiers.new('Protective petal thickness','SOLIDIFY'); sol.thickness=d[0]
+        bev=o.modifiers.new('Soft manufactured edge','BEVEL'); bev.width=.035; bev.segments=3
     elif k == 'cable':
         cu=bpy.data.curves.new(job['name'],'CURVE'); cu.dimensions='3D'; cu.bevel_depth=d[0]; cu.bevel_resolution=4
         sp=cu.splines.new('BEZIER'); sp.bezier_points.add(len(job['points'])-1)
