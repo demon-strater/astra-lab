@@ -2,1821 +2,1861 @@
   {
     "name": "Main pressure spine",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Spine upper keel",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine lower keel",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.001",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.002",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.003",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.004",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.005",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.006",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.007",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring.001",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke.008",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.009",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.010",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.011",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.012",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.013",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.014",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.015",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring.002",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke.016",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.017",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.018",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.019",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.020",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.021",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.022",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.023",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring.003",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke.024",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.025",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.026",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.027",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.028",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.029",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.030",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.031",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring.004",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke.032",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.033",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.034",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.035",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.036",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.037",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.038",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.039",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring.005",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke.040",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.041",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.042",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.043",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.044",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.045",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.046",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.047",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Spine bulkhead ring.006",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Bulkhead spoke.048",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.049",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.050",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.051",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.052",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.053",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.054",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Bulkhead spoke.055",
     "stage": 1,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Lateral cargo rail",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Lateral cargo rail.001",
     "stage": 1,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Structural fastener",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.001",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.002",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.003",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.004",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.005",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.006",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Structural fastener.007",
     "stage": 1,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "ARK / EXCELSIOR",
     "stage": 1,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Fusion containment ring",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Fusion chamber",
     "stage": 2,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Fusion inner core",
     "stage": 2,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Magnetic coil support",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.001",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.001",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.002",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.002",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.003",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.003",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.004",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.004",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.005",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.005",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.006",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.006",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.007",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.007",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.008",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.008",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.009",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.009",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.010",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.010",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil support.011",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Magnetic coil.011",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Primary exhaust bell",
     "stage": 2,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Exhaust throat",
     "stage": 2,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Power bus cable",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Power bus cable.001",
     "stage": 2,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Power distribution box",
     "stage": 2,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Power bus insulator",
     "stage": 2,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Power bus insulator.001",
     "stage": 2,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Power bus insulator.002",
     "stage": 2,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Habitat pressure cylinder",
     "stage": 3,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Habitat end frame",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Habitat end frame.001",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Habitat longitudinal rib",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.001",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.002",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.003",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.004",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.005",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.006",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.007",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat observation blister",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.001",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.002",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.003",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.004",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.005",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat pressure cylinder.001",
     "stage": 3,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Habitat end frame.002",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Habitat end frame.003",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Habitat longitudinal rib.008",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.009",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.010",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.011",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.012",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.013",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.014",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.015",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat observation blister.006",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.007",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.008",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.009",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.010",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.011",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat pressure cylinder.002",
     "stage": 3,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Habitat end frame.004",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Habitat end frame.005",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Habitat longitudinal rib.016",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.017",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.018",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.019",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.020",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.021",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.022",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat longitudinal rib.023",
     "stage": 3,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Habitat observation blister.012",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.013",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.014",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.015",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.016",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Habitat observation blister.017",
     "stage": 3,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Spin bearing collar",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Spin bearing collar.001",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Spin bearing collar.002",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Spin bearing collar.003",
     "stage": 3,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "HABITAT / 04",
     "stage": 3,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
-    "name": "Upper port habitat shell",
+    "name": "Upper starboard swept fairing",
     "stage": 4,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
-    "name": "Upper starboard habitat shell",
+    "name": "Upper port swept fairing",
     "stage": 4,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
-    "name": "Lower port habitat shell",
+    "name": "Lower port swept fairing",
     "stage": 4,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
-    "name": "Lower starboard habitat shell",
+    "name": "Lower starboard swept fairing",
     "stage": 4,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
-    "name": "Shell tension strut",
+    "name": "Outer fairing capture ring",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
-    "name": "Shell tension strut.001",
+    "name": "Outer fairing seal ring",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
-    "name": "Shell tension strut.002",
+    "name": "Outer fairing capture ring.001",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
-    "name": "Shell tension strut.003",
+    "name": "Outer fairing seal ring.001",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
-    "name": "Shell tension strut.004",
+    "name": "Outer fairing capture ring.002",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
-    "name": "Shell tension strut.005",
+    "name": "Outer fairing seal ring.002",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
-    "name": "Shell tension strut.006",
+    "name": "Fairing tension strut",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell tension strut.007",
+    "name": "Fairing tension strut.001",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell tension strut.008",
+    "name": "Fairing tension strut.002",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell tension strut.009",
+    "name": "Fairing tension strut.003",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell tension strut.010",
+    "name": "Fairing tension strut.004",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell tension strut.011",
+    "name": "Fairing tension strut.005",
     "stage": 4,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell service collar",
+    "name": "Fairing tension strut.006",
     "stage": 4,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell service collar.001",
+    "name": "Fairing tension strut.007",
     "stage": 4,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell service collar.002",
+    "name": "Fairing tension strut.008",
     "stage": 4,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell service collar.003",
+    "name": "Fairing tension strut.009",
     "stage": 4,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell service collar.004",
+    "name": "Fairing tension strut.010",
     "stage": 4,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
-    "name": "Shell service collar.005",
+    "name": "Fairing tension strut.011",
     "stage": 4,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.012",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.013",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.014",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.015",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.016",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.017",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.018",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
+  },
+  {
+    "name": "Fairing tension strut.019",
+    "stage": 4,
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Radiator spine",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.001",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.002",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.003",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.004",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.005",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.006",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.007",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.008",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator spine.001",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.009",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.010",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.011",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.012",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.013",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.014",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.015",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.016",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.017",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator spine.002",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.018",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.019",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.020",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.021",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.022",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.023",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.024",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.025",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.026",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator spine.003",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.027",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.028",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.029",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.030",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.031",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.032",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.033",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.034",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.035",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Auxiliary maneuver pod",
     "stage": 5,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Maneuver pod nose",
     "stage": 5,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Maneuver nozzle",
     "stage": 5,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Pod mount arm",
     "stage": 5,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Auxiliary maneuver pod.001",
     "stage": 5,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Maneuver pod nose.001",
     "stage": 5,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Maneuver nozzle.001",
     "stage": 5,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Pod mount arm.001",
     "stage": 5,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Auxiliary maneuver pod.002",
     "stage": 5,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Maneuver pod nose.002",
     "stage": 5,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Maneuver nozzle.002",
     "stage": 5,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Pod mount arm.002",
     "stage": 5,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Radiator spine.004",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.036",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.037",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.038",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.039",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.040",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.041",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.042",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.043",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.044",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator spine.005",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.045",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.046",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.047",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.048",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.049",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.050",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.051",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.052",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.053",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator spine.006",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.054",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.055",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.056",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.057",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.058",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.059",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.060",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.061",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.062",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator spine.007",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Radiator fin.063",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.064",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.065",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.066",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.067",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.068",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.069",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.070",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Radiator fin.071",
     "stage": 5,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Auxiliary maneuver pod.003",
     "stage": 5,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Maneuver pod nose.003",
     "stage": 5,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Maneuver nozzle.003",
     "stage": 5,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Pod mount arm.003",
     "stage": 5,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Auxiliary maneuver pod.004",
     "stage": 5,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Maneuver pod nose.004",
     "stage": 5,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Maneuver nozzle.004",
     "stage": 5,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Pod mount arm.004",
     "stage": 5,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Auxiliary maneuver pod.005",
     "stage": 5,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Maneuver pod nose.005",
     "stage": 5,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Maneuver nozzle.005",
     "stage": 5,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Pod mount arm.005",
     "stage": 5,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Thermal bus spine",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Thermal bus spine.001",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Thermal bus spine.002",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Thermal bus spine.003",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Thermal bus spine.004",
     "stage": 5,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Forward command ring",
     "stage": 6,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Forward ring pressure seal",
     "stage": 6,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Command core",
     "stage": 6,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Command ring spoke",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.001",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.002",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.003",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.004",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.005",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.006",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.007",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.008",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.009",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.010",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command ring spoke.011",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Forward aerodynamic nose",
     "stage": 6,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Docking collar",
     "stage": 6,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Docking collar ring",
     "stage": 6,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Docking boom",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Docking collar.001",
     "stage": 6,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Docking collar ring.001",
     "stage": 6,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Docking boom.001",
     "stage": 6,
-    "material": "ARK / Carbon truss.001"
+    "material": "ARK / Carbon truss.002"
   },
   {
     "name": "Command window frame",
     "stage": 6,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Command window blank lens",
     "stage": 6,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Command window frame.001",
     "stage": 6,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Command window blank lens.001",
     "stage": 6,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Command window frame.002",
     "stage": 6,
-    "material": "ARK / Hull shadow.001"
+    "material": "ARK / Hull shadow.002"
   },
   {
     "name": "Command window blank lens.002",
     "stage": 6,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "ARK / EXCELSIOR.001",
     "stage": 6,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   },
   {
     "name": "Top service fairing",
     "stage": 7,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Fairing captive fastener",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Fairing captive fastener.001",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Top service fairing.001",
     "stage": 7,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Fairing captive fastener.002",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Fairing captive fastener.003",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Top service fairing.002",
     "stage": 7,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Fairing captive fastener.004",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Fairing captive fastener.005",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Top service fairing.003",
     "stage": 7,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Fairing captive fastener.006",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Fairing captive fastener.007",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Top service fairing.004",
     "stage": 7,
-    "material": "ARK / Hull ceramic.001"
+    "material": "ARK / Hull ceramic.002"
   },
   {
     "name": "Fairing captive fastener.008",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Fairing captive fastener.009",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "External service cable",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.001",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.002",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.003",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.004",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.005",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.006",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.007",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.008",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "External service cable.009",
     "stage": 7,
-    "material": "ARK / Thermal copper.001"
+    "material": "ARK / Thermal copper.002"
   },
   {
     "name": "Lidar sensor guard",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Sensor dome",
     "stage": 7,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Lidar sensor guard.001",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Sensor dome.001",
     "stage": 7,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Long range antenna mast",
     "stage": 7,
-    "material": "ARK / Structural titanium.001"
+    "material": "ARK / Structural titanium.002"
   },
   {
     "name": "Antenna receiver",
     "stage": 7,
-    "material": "ARK / Untextured smoked glass.001"
+    "material": "ARK / Untextured smoked glass.002"
   },
   {
     "name": "Navigation beacon",
     "stage": 7,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Navigation beacon.001",
     "stage": 7,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Navigation beacon.002",
     "stage": 7,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "Navigation beacon.003",
     "stage": 7,
-    "material": "ARK / Cool white emissive.001"
+    "material": "ARK / Cool white emissive.002"
   },
   {
     "name": "ORBITAL ARK / 01",
     "stage": 7,
-    "material": "ARK / Thermal ceramic.001"
+    "material": "ARK / Thermal ceramic.002"
   }
 ]

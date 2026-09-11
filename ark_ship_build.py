@@ -89,6 +89,10 @@ def curved_shell(st, name, sign_z, sign_y, material='Hull', **kw):
         pts.append((x, y + width, z))
     add(st, 'panel', name, pts[0], (.085,), material, points=pts, shell=True, **kw)
 
+def enclosing_shell(st, name, theta0, theta1, material='Hull', **kw):
+    # Broad swept fairing that wraps around the central spacecraft and tapers into the nose and drive ends.
+    add(st, 'sweep_shell', name, (0, 0, 0), (.095,), material, theta0=theta0, theta1=theta1, **kw)
+
 # ---------- stage 01: spine and bulkheads ----------
 box(0, 'Main pressure spine', (0, 0, 0), (10.8, .48, .48), 'Frame')
 box(0, 'Spine upper keel', (0, 0, .33), (10.2, .18, .16), 'Carbon')
@@ -136,18 +140,19 @@ for x in [-3.0, -1.0, 1.0, 3.0]:
     cyl(2, 'Spin bearing collar', (x, 0, 0), .98, .12, 'Frame', 'X')
 label(2, 'HABITAT / 04', (0, -.90, .18), .12, 'HullDark')
 
-# ---------- stage 04: the signature curved ark shells ----------
-curved_shell(3, 'Upper port habitat shell', 1, -1, 'Hull')
-curved_shell(3, 'Upper starboard habitat shell', 1, 1, 'Hull')
-curved_shell(3, 'Lower port habitat shell', -1, -1, 'HullDark')
-curved_shell(3, 'Lower starboard habitat shell', -1, 1, 'HullDark')
+# ---------- stage 04: the signature surrounding ark fairings ----------
+# Four wide petals almost close around the craft, leaving deliberate service gaps between them.
+enclosing_shell(3, 'Upper starboard swept fairing', math.radians(10), math.radians(80), 'Hull')
+enclosing_shell(3, 'Upper port swept fairing', math.radians(100), math.radians(170), 'Hull')
+enclosing_shell(3, 'Lower port swept fairing', math.radians(190), math.radians(260), 'HullDark')
+enclosing_shell(3, 'Lower starboard swept fairing', math.radians(280), math.radians(350), 'HullDark')
+for x, major in [(-4.65, 1.26), (0.0, 2.18), (4.65, 1.48)]:
+    torus(3, 'Outer fairing capture ring', (x, 0, 0), major, .085, 'Frame', 'X')
+    torus(3, 'Outer fairing seal ring', (x, 0, 0), major*.88, .045, 'HullDark', 'X')
 for z in [-1, 1]:
     for y in [-1, 1]:
-        for x in [-4.4, 0, 4.4]:
-            rod(3, 'Shell tension strut', (x, y*1.22, z*1.15), (x, y*1.48, z*1.7), .032, 'Carbon')
-for x in [-3.7, 0, 3.7]:
-    for y in [-1.48, 1.48]:
-        torus(3, 'Shell service collar', (x, y, 0), .34, .045, 'Frame', 'X')
+        for x in [-4.4, -2.2, 0, 2.2, 4.4]:
+            rod(3, 'Fairing tension strut', (x, y*1.0, z*.92), (x, y*1.82, z*1.52), .035, 'Carbon')
 
 # ---------- stage 05: radiators, pods, heat management ----------
 for side in [-1, 1]:
@@ -230,6 +235,30 @@ def construct(job, stage):
         o=bpy.data.objects.new(job['name'], make_panel_mesh(job['points'], d[0])); sc.collection.objects.link(o)
         sol=o.modifiers.new('Aerodynamic shell thickness','SOLIDIFY'); sol.thickness=d[0]
         bev=o.modifiers.new('Manufactured edge radius','BEVEL'); bev.width=.035; bev.segments=3
+    elif k == 'sweep_shell':
+        # Build a continuous curved fairing from a set of elliptical cross-sections.
+        verts=[]; faces=[]; x_count=15; a_count=9
+        t0, t1 = job['theta0'], job['theta1']
+        for i in range(x_count):
+            u = -1.0 + 2.0 * i / (x_count - 1)
+            x = 5.25 * u
+            core = 1.0 - (abs(u) ** 1.45)
+            taper = .58 + .42 * core
+            ry = (1.44 + .70 * core) * taper
+            rz = (1.20 + .68 * core) * taper
+            # A subtle sweep keeps the silhouette organic instead of cylindrical.
+            z_bias = .12 * math.sin(u * math.pi)
+            for j in range(a_count):
+                th = t0 + (t1 - t0) * j / (a_count - 1)
+                verts.append((x, ry * math.cos(th), z_bias + rz * math.sin(th)))
+        for i in range(x_count - 1):
+            for j in range(a_count - 1):
+                a = i * a_count + j; b = a + 1; c = a + a_count + 1; d0 = a + a_count
+                faces.append((a, b, c, d0))
+        mesh=bpy.data.meshes.new('Continuous swept ark fairing'); mesh.from_pydata(verts, [], faces); mesh.update()
+        o=bpy.data.objects.new(job['name'], mesh); sc.collection.objects.link(o)
+        sol=o.modifiers.new('Aerodynamic fairing thickness','SOLIDIFY'); sol.thickness=d[0]
+        bev=o.modifiers.new('Manufactured edge radius','BEVEL'); bev.width=.045; bev.segments=3
     elif k == 'cable':
         cu=bpy.data.curves.new(job['name'],'CURVE'); cu.dimensions='3D'; cu.bevel_depth=d[0]; cu.bevel_resolution=4
         sp=cu.splines.new('BEZIER'); sp.bezier_points.add(len(job['points'])-1)
