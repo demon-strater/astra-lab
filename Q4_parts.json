@@ -1,0 +1,4472 @@
+[
+  {
+    "name": "Longitudinal extrusion",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.800000011920929,
+      0.026000000536441803,
+      0.07199999690055847
+    ]
+  },
+  {
+    "name": "Extrusion relief channel",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.699999988079071,
+      0.003000000026077032,
+      0.017999999225139618
+    ]
+  },
+  {
+    "name": "Longitudinal extrusion.001",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.800000011920929,
+      0.026000000536441803,
+      0.07199999690055847
+    ]
+  },
+  {
+    "name": "Extrusion relief channel.001",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.699999988079071,
+      0.003000000026077032,
+      0.017999999225139618
+    ]
+  },
+  {
+    "name": "Transverse rib",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.01600000075995922,
+      0.3100000023841858,
+      0.04600000008940697
+    ]
+  },
+  {
+    "name": "Transverse rib.001",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.01600000075995922,
+      0.3100000023841858,
+      0.04600000008940697
+    ]
+  },
+  {
+    "name": "Transverse rib.002",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.01600000075995922,
+      0.3100000023841858,
+      0.04600000008940697
+    ]
+  },
+  {
+    "name": "Transverse rib.003",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.01600000075995922,
+      0.3100000023841858,
+      0.04600000008940697
+    ]
+  },
+  {
+    "name": "Transverse rib.004",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.01600000075995922,
+      0.3100000023841858,
+      0.04600000008940697
+    ]
+  },
+  {
+    "name": "Lower service tray",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.7599999904632568,
+      0.3100000023841858,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "Hip mounting block",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.07000000029802322,
+      0.05999999865889549,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "M6 mounting bolt",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.001",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "Hip mounting block.001",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.07000000029802322,
+      0.05999999865889549,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.002",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.003",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "Hip mounting block.002",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.07000000029802322,
+      0.05999999865889549,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.004",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.005",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "Hip mounting block.003",
+    "stage": 1,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.07000000029802322,
+      0.05999999865889549,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.006",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "M6 mounting bolt.007",
+    "stage": 1,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.008999999612569809,
+      0.008999999612569809,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "Q4 / CHASSIS 800",
+    "stage": 1,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.13663798570632935,
+      0.014940000139176846,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "FL HAA motor body",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.10599999874830246,
+      0.10599999874830246,
+      0.07900000363588333
+    ]
+  },
+  {
+    "name": "FL HAA flange",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "FL HAA flange.001",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "FL HAA cover screw",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.001",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.002",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.003",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.004",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.005",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.006",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL HAA cover screw.007",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FL Hip offset yoke",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04500000178813934,
+      0.10000000149011612,
+      0.03200000151991844
+    ]
+  },
+  {
+    "name": "FL HAA output shaft",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.07500000298023224
+    ]
+  },
+  {
+    "name": "FR HAA motor body",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.10599999874830246,
+      0.10599999874830246,
+      0.07900000363588333
+    ]
+  },
+  {
+    "name": "FR HAA flange",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "FR HAA flange.001",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "FR HAA cover screw",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.001",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.002",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.003",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.004",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.005",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.006",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR HAA cover screw.007",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "FR Hip offset yoke",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04500000178813934,
+      0.10000000149011612,
+      0.03200000151991844
+    ]
+  },
+  {
+    "name": "FR HAA output shaft",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.07500000298023224
+    ]
+  },
+  {
+    "name": "RL HAA motor body",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.10599999874830246,
+      0.10599999874830246,
+      0.07900000363588333
+    ]
+  },
+  {
+    "name": "RL HAA flange",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "RL HAA flange.001",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "RL HAA cover screw",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.001",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.002",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.003",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.004",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.005",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.006",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL HAA cover screw.007",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RL Hip offset yoke",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04500000178813934,
+      0.10000000149011612,
+      0.03200000151991844
+    ]
+  },
+  {
+    "name": "RL HAA output shaft",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.07500000298023224
+    ]
+  },
+  {
+    "name": "RR HAA motor body",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.10599999874830246,
+      0.10599999874830246,
+      0.07900000363588333
+    ]
+  },
+  {
+    "name": "RR HAA flange",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "RR HAA flange.001",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10994113981723785,
+      0.10999999940395355,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "RR HAA cover screw",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.001",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.002",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.003",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.004",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.005",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.006",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR HAA cover screw.007",
+    "stage": 2,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.006000000052154064,
+      0.006000000052154064,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "RR Hip offset yoke",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04500000178813934,
+      0.10000000149011612,
+      0.03200000151991844
+    ]
+  },
+  {
+    "name": "RR HAA output shaft",
+    "stage": 2,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.07500000298023224
+    ]
+  },
+  {
+    "name": "FL HFE casing",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.11696461588144302,
+      0.12398937344551086,
+      0.06499999761581421
+    ]
+  },
+  {
+    "name": "FL Stator lamination",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10155877470970154,
+      0.10799074918031693,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "FL Copper winding",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Copper winding.001",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Copper winding.002",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Copper winding.003",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Copper winding.004",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Copper winding.005",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Copper winding.006",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FL Rotor hub",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.057999998331069946,
+      0.057999998331069946,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "FL Rotor shaft",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "FL Reducer annulus",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.09988999366760254,
+      0.10599091649055481,
+      0.014999999664723873
+    ]
+  },
+  {
+    "name": "FL Sun gear",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.02199999988079071,
+      0.02199999988079071,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FL Planet gear",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FL Planet pin",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FL Planet gear.001",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FL Planet pin.001",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FL Planet gear.002",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FL Planet pin.002",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FL Output bearing",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.06794114410877228,
+      0.06800000369548798,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FL Bearing ball",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.001",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.002",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.003",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.004",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.005",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.006",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.007",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.008",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.009",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.010",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.011",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.012",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.013",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.014",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Bearing ball.015",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.005400000140070915
+    ]
+  },
+  {
+    "name": "FL Encoder PCB",
+    "stage": 3,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.053970567882061005,
+      0.05400000140070915,
+      0.003000000026077032
+    ]
+  },
+  {
+    "name": "FR HFE casing",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.12395094335079193,
+      0.12399999797344208,
+      0.06499999761581421
+    ]
+  },
+  {
+    "name": "FR Stator lamination",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10790190100669861,
+      0.1080000028014183,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "FR Copper winding",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.001",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.002",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.003",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.004",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.005",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.006",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.007",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.008",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.009",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.010",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Copper winding.011",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "FR Rotor hub",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.057999998331069946,
+      0.057999998331069946,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "FR Rotor shaft",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "FR Reducer annulus",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10594113171100616,
+      0.10599999874830246,
+      0.014999999664723873
+    ]
+  },
+  {
+    "name": "FR Sun gear",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.02199999988079071,
+      0.02199999988079071,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FR Planet gear",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FR Planet pin",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FR Planet gear.001",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FR Planet pin.001",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FR Planet gear.002",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "FR Planet pin.002",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FR Output bearing",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.06794114410877228,
+      0.06800000369548798,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "FR Encoder PCB",
+    "stage": 3,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.053970567882061005,
+      0.05400000140070915,
+      0.003000000026077032
+    ]
+  },
+  {
+    "name": "RL HFE casing",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.12395094335079193,
+      0.12399999797344208,
+      0.06499999761581421
+    ]
+  },
+  {
+    "name": "RL Stator lamination",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10790190100669861,
+      0.1080000028014183,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "RL Copper winding",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.001",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.002",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.003",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.004",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.005",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.006",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.007",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.008",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.009",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.010",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Copper winding.011",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RL Rotor hub",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.057999998331069946,
+      0.057999998331069946,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "RL Rotor shaft",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "RL Reducer annulus",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10594113171100616,
+      0.10599999874830246,
+      0.014999999664723873
+    ]
+  },
+  {
+    "name": "RL Sun gear",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.02199999988079071,
+      0.02199999988079071,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RL Planet gear",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RL Planet pin",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RL Planet gear.001",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RL Planet pin.001",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RL Planet gear.002",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RL Planet pin.002",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RL Output bearing",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.06794114410877228,
+      0.06800000369548798,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RL Encoder PCB",
+    "stage": 3,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.053970567882061005,
+      0.05400000140070915,
+      0.003000000026077032
+    ]
+  },
+  {
+    "name": "RR HFE casing",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.12395094335079193,
+      0.12399999797344208,
+      0.06499999761581421
+    ]
+  },
+  {
+    "name": "RR Stator lamination",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10790190100669861,
+      0.1080000028014183,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "RR Copper winding",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.001",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.002",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.003",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.004",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.005",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.006",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.007",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.008",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.009",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.010",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Copper winding.011",
+    "stage": 3,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.014000000432133675,
+      0.014000000432133675,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "RR Rotor hub",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.057999998331069946,
+      0.057999998331069946,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "RR Rotor shaft",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.07999999821186066
+    ]
+  },
+  {
+    "name": "RR Reducer annulus",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10594113171100616,
+      0.10599999874830246,
+      0.014999999664723873
+    ]
+  },
+  {
+    "name": "RR Sun gear",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.02199999988079071,
+      0.02199999988079071,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RR Planet gear",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RR Planet pin",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RR Planet gear.001",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RR Planet pin.001",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RR Planet gear.002",
+    "stage": 3,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.01600000075995922
+    ]
+  },
+  {
+    "name": "RR Planet pin.002",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RR Output bearing",
+    "stage": 3,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.06794114410877228,
+      0.06800000369548798,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "RR Encoder PCB",
+    "stage": 3,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.053970567882061005,
+      0.05400000140070915,
+      0.003000000026077032
+    ]
+  },
+  {
+    "name": "FL Upper link side plate",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999999433755875,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "FL Upper link side plate.001",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999999433755875,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "FL Upper link carbon spine",
+    "stage": 4,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03400000184774399,
+      0.03400000184774399,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "FL Upper link spacer",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "FL Upper link spacer.001",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "FL Motor cable",
+    "stage": 4,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.14639633893966675,
+      0.02497062087059021,
+      0.21420493721961975
+    ]
+  },
+  {
+    "name": "FR Upper link side plate",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999995708465576,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "FR Upper link side plate.001",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999995708465576,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "FR Upper link carbon spine",
+    "stage": 4,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03399999812245369,
+      0.03400000184774399,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "FR Upper link spacer",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "FR Upper link spacer.001",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "FR Motor cable",
+    "stage": 4,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.14639633893966675,
+      0.024970650672912598,
+      0.21420493721961975
+    ]
+  },
+  {
+    "name": "RL Upper link side plate",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999999433755875,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "RL Upper link side plate.001",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999999433755875,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "RL Upper link carbon spine",
+    "stage": 4,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03400000184774399,
+      0.03400000184774399,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "RL Upper link spacer",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "RL Upper link spacer.001",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "RL Motor cable",
+    "stage": 4,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.14639636874198914,
+      0.024970650672912598,
+      0.21420493721961975
+    ]
+  },
+  {
+    "name": "RR Upper link side plate",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999999433755875,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "RR Upper link side plate.001",
+    "stage": 4,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.041999999433755875,
+      0.00800000037997961,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "RR Upper link carbon spine",
+    "stage": 4,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03400000184774399,
+      0.03400000184774399,
+      0.2672339677810669
+    ]
+  },
+  {
+    "name": "RR Upper link spacer",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "RR Upper link spacer.001",
+    "stage": 4,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.052000001072883606
+    ]
+  },
+  {
+    "name": "RR Motor cable",
+    "stage": 4,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.14639636874198914,
+      0.024970650672912598,
+      0.21420493721961975
+    ]
+  },
+  {
+    "name": "FL KFE sealed actuator",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.08799999952316284,
+      0.08799999952316284,
+      0.0689999982714653
+    ]
+  },
+  {
+    "name": "FL KFE bearing cover",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "FL KFE bearing cover.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "FL Knee fastener",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FL Knee fastener.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FL Knee fastener.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FL Knee fastener.003",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FL Knee fastener.004",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FL Knee fastener.005",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FL Carbon lower leg",
+    "stage": 5,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03399999812245369,
+      0.03400000184774399,
+      0.3247368335723877
+    ]
+  },
+  {
+    "name": "FL Lower leg clamp",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04599999636411667,
+      0.04600000008940697,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "FL Lower leg clamp.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04599999636411667,
+      0.04600000008940697,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "FL Foot loadcell",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04399999976158142,
+      0.04399999976158142,
+      0.027000000700354576
+    ]
+  },
+  {
+    "name": "FL Elastomer contact foot",
+    "stage": 5,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.06800001114606857,
+      0.06800001114606857,
+      0.05576000362634659
+    ]
+  },
+  {
+    "name": "FL Sole tread",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "FL Sole tread.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "FL Sole tread.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "FL",
+    "stage": 5,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.013968001119792461,
+      0.010912001132965088,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "FR KFE sealed actuator",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.08799999952316284,
+      0.08799999952316284,
+      0.0689999982714653
+    ]
+  },
+  {
+    "name": "FR KFE bearing cover",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "FR KFE bearing cover.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "FR Knee fastener",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FR Knee fastener.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FR Knee fastener.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FR Knee fastener.003",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FR Knee fastener.004",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FR Knee fastener.005",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "FR Carbon lower leg",
+    "stage": 5,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03400000184774399,
+      0.03399999812245369,
+      0.3247368335723877
+    ]
+  },
+  {
+    "name": "FR Lower leg clamp",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04600000008940697,
+      0.04599999636411667,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "FR Lower leg clamp.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04600000008940697,
+      0.04599999636411667,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "FR Foot loadcell",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04399999976158142,
+      0.04399999976158142,
+      0.027000000700354576
+    ]
+  },
+  {
+    "name": "FR Elastomer contact foot",
+    "stage": 5,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.06800001114606857,
+      0.06800001114606857,
+      0.05576000362634659
+    ]
+  },
+  {
+    "name": "FR Sole tread",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "FR Sole tread.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "FR Sole tread.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "FR",
+    "stage": 5,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.01595200039446354,
+      0.010912001132965088,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "RL KFE sealed actuator",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.08799999952316284,
+      0.08799999952316284,
+      0.0689999982714653
+    ]
+  },
+  {
+    "name": "RL KFE bearing cover",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "RL KFE bearing cover.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "RL Knee fastener",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RL Knee fastener.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RL Knee fastener.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RL Knee fastener.003",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RL Knee fastener.004",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RL Knee fastener.005",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RL Carbon lower leg",
+    "stage": 5,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03399999812245369,
+      0.03400000184774399,
+      0.3247368335723877
+    ]
+  },
+  {
+    "name": "RL Lower leg clamp",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04599999636411667,
+      0.04600000008940697,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "RL Lower leg clamp.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04599999636411667,
+      0.04600000008940697,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "RL Foot loadcell",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04399999976158142,
+      0.04399999976158142,
+      0.027000000700354576
+    ]
+  },
+  {
+    "name": "RL Elastomer contact foot",
+    "stage": 5,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.06800001114606857,
+      0.06800001114606857,
+      0.05576000362634659
+    ]
+  },
+  {
+    "name": "RL Sole tread",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "RL Sole tread.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "RL Sole tread.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "RL",
+    "stage": 5,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.01611200161278248,
+      0.010912001132965088,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "RR KFE sealed actuator",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.08799999952316284,
+      0.08799999952316284,
+      0.0689999982714653
+    ]
+  },
+  {
+    "name": "RR KFE bearing cover",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "RR KFE bearing cover.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.08993133157491684,
+      0.09000000357627869,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "RR Knee fastener",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RR Knee fastener.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RR Knee fastener.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RR Knee fastener.003",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RR Knee fastener.004",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RR Knee fastener.005",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.005400000140070915,
+      0.005400000140070915,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "RR Carbon lower leg",
+    "stage": 5,
+    "material": "Q4 / Carbon",
+    "dimensions_m": [
+      0.03399999812245369,
+      0.03400000184774399,
+      0.3247368335723877
+    ]
+  },
+  {
+    "name": "RR Lower leg clamp",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04599999636411667,
+      0.04600000008940697,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "RR Lower leg clamp.001",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04599999636411667,
+      0.04600000008940697,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "RR Foot loadcell",
+    "stage": 5,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.04399999976158142,
+      0.04399999976158142,
+      0.027000000700354576
+    ]
+  },
+  {
+    "name": "RR Elastomer contact foot",
+    "stage": 5,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.06800001114606857,
+      0.06800001114606857,
+      0.05576000362634659
+    ]
+  },
+  {
+    "name": "RR Sole tread",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "RR Sole tread.001",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "RR Sole tread.002",
+    "stage": 5,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.04500000178813934,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "RR",
+    "stage": 5,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.01809600181877613,
+      0.010912001132965088,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "Battery isolation cradle",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.3199999928474426,
+      0.257999986410141,
+      0.017999999225139618
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.001",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.002",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.003",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.004",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.005",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.006",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.007",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.008",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.009",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.010",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.011",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.012",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.013",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.014",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.015",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.016",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.017",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.018",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.019",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.020",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.021",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.022",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.023",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.024",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.025",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.026",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.027",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.028",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.029",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.030",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.031",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.032",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.033",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.034",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.035",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.036",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.037",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.038",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.039",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.040",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.041",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.042",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.043",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.044",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.045",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.046",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Illustrative cylindrical cell.047",
+    "stage": 6,
+    "material": "Q4 / Blue",
+    "dimensions_m": [
+      0.020999999716877937,
+      0.020999999716877937,
+      0.06800000369548798
+    ]
+  },
+  {
+    "name": "Cell interconnect strip",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.001",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.002",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.003",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.004",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.005",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.006",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.007",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.008",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.009",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.010",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Cell interconnect strip.011",
+    "stage": 6,
+    "material": "Q4 / Copper",
+    "dimensions_m": [
+      0.009999999776482582,
+      0.10000000149011612,
+      0.001500000013038516
+    ]
+  },
+  {
+    "name": "Battery retention strap",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.12999999523162842,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Battery retention strap.001",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.12999999523162842,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Battery BMS PCB",
+    "stage": 6,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.25,
+      0.0430000014603138,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "BMS balancing IC",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "BMS balancing IC.001",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "BMS balancing IC.002",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "BMS balancing IC.003",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "BMS balancing IC.004",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "BMS balancing IC.005",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "Fused power distribution",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.06499999761581421,
+      0.10000000149011612,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Main DC fuse",
+    "stage": 6,
+    "material": "Q4 / Red",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.06499999761581421,
+      0.013000000268220901
+    ]
+  },
+  {
+    "name": "Compute carrier PCB",
+    "stage": 6,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.20999999344348907,
+      0.2549999952316284,
+      0.00800000037997961
+    ]
+  },
+  {
+    "name": "Compute module",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.0949999988079071,
+      0.08500000089406967,
+      0.027000000700354576
+    ]
+  },
+  {
+    "name": "Compute heatsink",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.10999999940395355,
+      0.10000000149011612,
+      0.012000000104308128
+    ]
+  },
+  {
+    "name": "Heatsink fin",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.001",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.002",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.003",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.004",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.005",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.006",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.007",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.008",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "Heatsink fin.009",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.003000000026077032,
+      0.10000000149011612,
+      0.02199999988079071
+    ]
+  },
+  {
+    "name": "I/O connector",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.02500000037252903,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "I/O connector.001",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.02500000037252903,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "I/O connector.002",
+    "stage": 6,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.02500000037252903,
+      0.02500000037252903
+    ]
+  },
+  {
+    "name": "IMU vibration isolator",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.04800000041723251,
+      0.04399999976158142,
+      0.010999999940395355
+    ]
+  },
+  {
+    "name": "IMU PCB",
+    "stage": 6,
+    "material": "Q4 / PCB",
+    "dimensions_m": [
+      0.03799999877810478,
+      0.03400000184774399,
+      0.007000000216066837
+    ]
+  },
+  {
+    "name": "IMU package",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.013000000268220901,
+      0.013000000268220901,
+      0.006000000052154064
+    ]
+  },
+  {
+    "name": "Main protected bus loom",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.5802928805351257,
+      0.009999990463256836,
+      0.018418431282043457
+    ]
+  },
+  {
+    "name": "Harness P clamp",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Harness P clamp.001",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Harness P clamp.002",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Harness P clamp.003",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Hip branch harness",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.055407941341400146,
+      0.1086616963148117,
+      0.03260672092437744
+    ]
+  },
+  {
+    "name": "Hip branch harness.001",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.05540798604488373,
+      0.1086616963148117,
+      0.03260672092437744
+    ]
+  },
+  {
+    "name": "Main protected bus loom.001",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.5802928805351257,
+      0.009999990463256836,
+      0.018418431282043457
+    ]
+  },
+  {
+    "name": "Harness P clamp.004",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Harness P clamp.005",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Harness P clamp.006",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Harness P clamp.007",
+    "stage": 6,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.017999999225139618,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Hip branch harness.002",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.055407941341400146,
+      0.1086616963148117,
+      0.03260672092437744
+    ]
+  },
+  {
+    "name": "Hip branch harness.003",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.05540798604488373,
+      0.1086616963148117,
+      0.03260672092437744
+    ]
+  },
+  {
+    "name": "Battery positive lead",
+    "stage": 6,
+    "material": "Q4 / Red",
+    "dimensions_m": [
+      0.0886923298239708,
+      0.04133210331201553,
+      0.054013848304748535
+    ]
+  },
+  {
+    "name": "Battery negative lead",
+    "stage": 6,
+    "material": "Q4 / Rubber",
+    "dimensions_m": [
+      0.09400597214698792,
+      0.03463023900985718,
+      0.058766722679138184
+    ]
+  },
+  {
+    "name": "BATTERY MODULE",
+    "stage": 6,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.11720801889896393,
+      0.009800000116229057,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "COMPUTE",
+    "stage": 6,
+    "material": "Q4 / White",
+    "dimensions_m": [
+      0.05924099683761597,
+      0.00910000130534172,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "Removable side protection",
+    "stage": 7,
+    "material": "Q4 / Safety",
+    "dimensions_m": [
+      0.699999988079071,
+      0.00800000037997961,
+      0.08699999749660492
+    ]
+  },
+  {
+    "name": "Captive side screw",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Captive side screw.001",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Captive side screw.002",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Captive side screw.003",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Side cooling grille",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.001",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.002",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.003",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.004",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.005",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.006",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.007",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Removable side protection.001",
+    "stage": 7,
+    "material": "Q4 / Safety",
+    "dimensions_m": [
+      0.699999988079071,
+      0.00800000037997961,
+      0.08699999749660492
+    ]
+  },
+  {
+    "name": "Captive side screw.004",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Captive side screw.005",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Captive side screw.006",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Captive side screw.007",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.007000000216066837,
+      0.007000000216066837,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Side cooling grille.008",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.009",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.010",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.011",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.012",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.013",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.014",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Side cooling grille.015",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.012000000104308128,
+      0.006000000052154064,
+      0.02800000086426735
+    ]
+  },
+  {
+    "name": "Removable upper service lid",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.7699999809265137,
+      0.3479999899864197,
+      0.014000000432133675
+    ]
+  },
+  {
+    "name": "Lid captive screw",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Lid captive screw.001",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Lid captive screw.002",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Lid captive screw.003",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.00800000037997961,
+      0.004000000189989805
+    ]
+  },
+  {
+    "name": "Payload mounting boss",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.029999999329447746,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "Payload mounting boss.001",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.029999999329447746,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "Payload mounting boss.002",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.029999999329447746,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "Payload mounting boss.003",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.032999999821186066,
+      0.029999999329447746,
+      0.023000000044703484
+    ]
+  },
+  {
+    "name": "Front sensor bulkhead",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.023000000044703484,
+      0.3100000023841858,
+      0.11500000208616257
+    ]
+  },
+  {
+    "name": "Stereo sensor bar",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.023000000044703484,
+      0.2370000034570694,
+      0.03999999910593033
+    ]
+  },
+  {
+    "name": "Stereo optical bezel",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.03200000151991844,
+      0.03200000151991844,
+      0.013000000268220901
+    ]
+  },
+  {
+    "name": "Stereo lens",
+    "stage": 7,
+    "material": "Q4 / Lens",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "Stereo optical bezel.001",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.03200000151991844,
+      0.03200000151991844,
+      0.013000000268220901
+    ]
+  },
+  {
+    "name": "Stereo lens.001",
+    "stage": 7,
+    "material": "Q4 / Lens",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.004999999888241291
+    ]
+  },
+  {
+    "name": "Depth projector",
+    "stage": 7,
+    "material": "Q4 / Lens",
+    "dimensions_m": [
+      0.00800000037997961,
+      0.041999999433755875,
+      0.019999999552965164
+    ]
+  },
+  {
+    "name": "Lidar pedestal",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.09799999743700027,
+      0.09799999743700027,
+      0.041999999433755875
+    ]
+  },
+  {
+    "name": "Lidar optical window",
+    "stage": 7,
+    "material": "Q4 / Lens",
+    "dimensions_m": [
+      0.1080000028014183,
+      0.1080000028014183,
+      0.03700000047683716
+    ]
+  },
+  {
+    "name": "Lidar cap",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.1080000028014183,
+      0.1080000028014183,
+      0.008999999612569809
+    ]
+  },
+  {
+    "name": "Emergency stop base",
+    "stage": 7,
+    "material": "Q4 / Safety",
+    "dimensions_m": [
+      0.052000001072883606,
+      0.052000001072883606,
+      0.017999999225139618
+    ]
+  },
+  {
+    "name": "Emergency stop mushroom",
+    "stage": 7,
+    "material": "Q4 / Red",
+    "dimensions_m": [
+      0.04800000041723251,
+      0.04800000041723251,
+      0.017000000923871994
+    ]
+  },
+  {
+    "name": "Q4 / FIELD INSPECTION",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.18795600533485413,
+      0.014940000139176846,
+      0.00039999998989515007
+    ]
+  },
+  {
+    "name": "Rear connector panel",
+    "stage": 7,
+    "material": "Q4 / Graphite",
+    "dimensions_m": [
+      0.017000000923871994,
+      0.26499998569488525,
+      0.09300000220537186
+    ]
+  },
+  {
+    "name": "Sealed rear service connector",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.019999999552965164
+    ]
+  },
+  {
+    "name": "Sealed rear service connector.001",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.019999999552965164
+    ]
+  },
+  {
+    "name": "Sealed rear service connector.002",
+    "stage": 7,
+    "material": "Q4 / Aluminium",
+    "dimensions_m": [
+      0.024000000208616257,
+      0.024000000208616257,
+      0.019999999552965164
+    ]
+  }
+]
