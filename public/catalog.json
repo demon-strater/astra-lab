@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "EXCELSIOR_R2_front.png",
+    "type": "image",
+    "path": "assets/images/EXCELSIOR_R2_front.png",
+    "bytes": 1694725
+  },
+  {
+    "name": "EXCELSIOR_R2_hero.png",
+    "type": "image",
+    "path": "assets/images/EXCELSIOR_R2_hero.png",
+    "bytes": 2548740
+  },
+  {
+    "name": "EXCELSIOR_R2_interior.png",
+    "type": "image",
+    "path": "assets/images/EXCELSIOR_R2_interior.png",
+    "bytes": 2706722
+  },
+  {
+    "name": "EXCELSIOR_R2_side.png",
+    "type": "image",
+    "path": "assets/images/EXCELSIOR_R2_side.png",
+    "bytes": 1538350
+  },
+  {
+    "name": "EXCELSIOR_R2_top.png",
+    "type": "image",
+    "path": "assets/images/EXCELSIOR_R2_top.png",
+    "bytes": 2005442
+  },
+  {
+    "name": "EXCELSIOR_R2.blend",
+    "type": "model",
+    "path": "assets/models/EXCELSIOR_R2.blend",
+    "bytes": 2310384
+  },
+  {
+    "name": "EXCELSIOR_R2.glb",
+    "type": "model",
+    "path": "assets/models/EXCELSIOR_R2.glb",
+    "bytes": 4903432
+  }
+]

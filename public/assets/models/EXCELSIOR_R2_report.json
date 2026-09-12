@@ -1,0 +1,20 @@
+{
+  "meshes": 836,
+  "dimensions_m": [
+    312.0,
+    195.90493774414062,
+    83.03536224365234
+  ],
+  "stages": [
+    "01 Pressure spine and open service truss",
+    "02 Command module and sensor rigging",
+    "03 Rear propulsion assembly",
+    "04 Four curved habitat interiors",
+    "05 Swept outer shells and panel geometry",
+    "06 Rotation bearing and diagonal trusses",
+    "07 Cargo pods and systems",
+    "08 Save and export"
+  ],
+  "textures": 0,
+  "design_status": "Visual concept reconstruction; internal layouts are inferred, not validated engineering."
+}
